@@ -1,1 +1,3 @@
 # CS250Mod8Journal
+
+Interpreting user needs involves understanding what users want to achieve and solving their problems, and creating “user stories” helps by breaking these needs into clear, actionable statements from the user’s perspective. This ensures each feature directly addresses real requirements and guides development decisions. I approach programming with an organized, iterative process, building, testing, and refining in cycles, and I hope to incorporate Agile practices like sprints, stand-ups, and regular feedback to stay adaptable and user-focused. Being a good team member means communicating clearly, supporting others, accepting feedback, meeting deadlines, and documenting work so the team can collaborate efficiently and produce high-quality results.
